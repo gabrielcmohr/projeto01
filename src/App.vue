@@ -182,7 +182,7 @@ export default {
 }
 
 .info input[type="date"] {
-  width: calc(100% - 22px); /* Para compensar a largura do padding */
+  width: calc(100% - 22px); 
 }
 
 .hobbies label, .ling label {
